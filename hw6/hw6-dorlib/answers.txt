@@ -1,0 +1,11 @@
+Section A answers:
+
+push - the method's implementation does not match the contract. if the object we push is null then top is null.
+this is against the @inv of the class. there is no handle for the option that the object we insert is null.
+
+pop -the method's implementation match the contract and the @inv.
+
+top - the method's implementation match the contract and the @inv.
+
+isEmpty - the method's implementation does not match the contract. according to the contract the method will return true
+iff the linkedlist is not empty, but the method returns true if the linkedlist is empty.
