@@ -1,2 +1,2 @@
 # software1-homework
-homework solutions for software 1 course in Tel Aviv University
+homework solutions for programing 1 course in Tel Aviv University
